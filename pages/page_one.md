@@ -4,30 +4,30 @@
 
 Open-source software has several advantages. Some important benefits are:
 
-1. Low cost
+## 1. Low cost
 
 Many open-source programmes are free to use. Such as: Students can write assignments in LibreOffice without buying Microsoft Office. This is helpful for people with a limited budget.
 
-2. Transparency
+## 2. Transparency
 
 Users can check the source code and understand how the software works. Developers can also find errors and improve the programme.
 
-3. Freedom and flexibility
+## 3. Freedom and flexibility
 
 Users can change software according to their needs and its license. This gives developers more control over their work.
 
-4. Cooperation
+## 4. Cooperation
 
 People from different countries can work together on the same project. Firefox has contributors who help improve its features and fix problems.
 
-5. Learning opportunities
+## 5. Learning opportunities
 
 Open-source tools are useful for education and research. For example: Zotero helps students organise academic articles and manage references.
 
-Sources:
+## Sources:
 
  https://opensource.org/osd
- 
+
  https://www.gnu.org/philosophy/free-sw.html
 
 

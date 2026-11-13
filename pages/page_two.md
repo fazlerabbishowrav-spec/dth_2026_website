@@ -4,27 +4,27 @@
 
 Open-source software also has some disadvantages.
 
-1. Limited support
+## 1. Limited support
 
 Some projects do not have official customer service. Users may need to search online forums when they face technical problems.
 
-2. Maintenance problems
+## 2. Maintenance problems
 
 Some projects depend on volunteers. If developers stop working, the software may not receive updates. Old programmes can also become difficult to use with newer systems.
 
-3. Security risks
+## 3. Security risks
 
 Open-source software is not always secure. A project with few developers may not find or fix security problems quickly.
 
-4. Compatibility issues
+## 4. Compatibility issues
 
 Some programmes do not work perfectly with other software. A document created in LibreOffice may sometimes look different when opened in Microsoft Word.
 
-5. Difficult to use
+## 5. Difficult to use
 
 Some open-source tools have complicated interfaces. Beginners may find Linux commands difficult because they need to learn how to use the terminal.
 
-Sources:
+## Sources:
 
 •	https://opensource.org/faq
 

@@ -27,6 +27,7 @@ Some open-source tools have complicated interfaces. Beginners may find Linux com
 Sources:
 
 •	https://opensource.org/faq
+
 •	https://www.gnu.org/philosophy/free-sw.html
 
 

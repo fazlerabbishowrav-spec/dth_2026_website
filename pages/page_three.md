@@ -25,7 +25,11 @@ I would use Zotero for my thesis because it makes academic research easier to or
 Sources :
 
 •	https://www.zotero.org/
+
 •	https://www.zotero.org/support/credits_and_acknowledgments
+
 •	https://github.com/zotero/zotero
+
 •	https://www.zotero.org/support/licensing
+
 •	https://www.zotero.org/getinvolved

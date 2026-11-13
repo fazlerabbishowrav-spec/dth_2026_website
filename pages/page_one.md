@@ -27,6 +27,7 @@ Open-source tools are useful for education and research. For example: Zotero hel
 Sources:
 
  https://opensource.org/osd
+ 
  https://www.gnu.org/philosophy/free-sw.html
 
 

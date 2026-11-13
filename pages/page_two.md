@@ -22,7 +22,16 @@ Some programmes do not work perfectly with other software. A document created in
 
 5. Difficult to use
 
-some open-source tools have complicated interfaces. Beginners may find inux commands difficult because they need to learn how to use the terminal.
+Some open-source tools have complicated interfaces. Beginners may find Linux commands difficult because they need to learn how to use the terminal.
+
+Sources:
+
+•	https://opensource.org/faq
+•	https://www.gnu.org/philosophy/free-sw.html
+
+
+
+
 
 
 
